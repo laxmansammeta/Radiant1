@@ -1,0 +1,6 @@
+hi this is laxman sammeta
+Hello
+I got following error while executing the script
+1.ebs-snapshot.sh.1: 7: set: Illegal option -o pipefail
+I tried to comment the above line and try to execute it and I got below error
+2.ebs-snapshot.sh.1: 51: ebs-snapshot.sh.1: Syntax error: redirection unexpected
